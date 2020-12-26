@@ -20,7 +20,7 @@ then put the batch file I am including, into the directory you just extracted, t
 
 Then download the zip file under the green code button and extract it on the Desktop, then run the CCFinder-Win.sln file.
 
-The project was made with https://visualstudio.microsoft.com/vs/community/ so I suggest you use that version.
+The project was made with https [Visual Studio](://visualstudio.microsoft.com/vs/community/) so I suggest you use that version.
 
 Under Project> click build. 
 
@@ -47,8 +47,7 @@ The software will check for procdump.exe made by Microsoft for dumping memory in
 
 ***CREDITS***
 
-Please DO NOT take credits for this program.
-DONATIONS ARE WELCOME
+If you copy my code give me credits
 
 ***HELP***
 
